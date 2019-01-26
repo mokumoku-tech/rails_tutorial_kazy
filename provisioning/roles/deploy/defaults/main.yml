@@ -1,0 +1,9 @@
+---
+project_name: new_project
+db_name: new_project_development
+db_user: new_project_dev_user
+db_password: password
+db_host: localhost
+deploy_env_vars: {}
+rbenv_install_user: vagrant
+rbenv_install_dir: /home/vagrant/.rbenv
