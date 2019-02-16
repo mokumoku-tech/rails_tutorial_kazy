@@ -1,7 +1,7 @@
 ---
-project_name: toy_app
-db_name: toy_app_development
-db_user: toy_app_dev_user
+project_name: sample_app
+db_name: sample_app_dev
+db_user: sample_app_dev
 db_password: password
 db_host: localhost
 deploy_env_vars: {}
